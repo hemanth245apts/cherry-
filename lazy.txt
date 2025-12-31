@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 rando yxxxhyr hyderabad
+=======
+rando yhyr hyderabad
+>>>>>>> Stashed changes
 fixed not life
 random 
 added
